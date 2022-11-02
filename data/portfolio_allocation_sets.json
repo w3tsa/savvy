@@ -1,0 +1,41 @@
+[
+  {
+    "date": "1-1-2014",
+    "portfolio": [
+      {
+        "symbol": "VTSAX",
+        "shares": 31
+      },
+      {
+        "symbol": "VBLTX",
+        "shares": 115
+      }
+    ]
+  },
+  {
+    "date": "3-5-2014",
+    "portfolio": [
+      {
+        "symbol": "VTSAX",
+        "shares": 25
+      },
+      {
+        "symbol": "VBLTX",
+        "shares": 145
+      },
+      {
+        "symbol": "VTAPX",
+        "shares": 20
+      }
+    ]
+  },
+  {
+    "date": "7-1-2014",
+    "portfolio": [
+      {
+        "symbol": "VTSAX",
+        "shares": 250
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Vanguard Total Stock Market Index Fund Admiral",
+    "symbol": "VTSAX",
+    "assetClass": "U.S. Stocks"
+  },
+  {
+    "name": "Vanguard 500 Index Admiral",
+    "symbol": "VFIAX",
+    "assetClass": "U.S. Stocks"
+  },
+  {
+    "name": "Vanguard Total International Bond Index Admiral",
+    "symbol": "VTABX",
+    "assetClass": "International Bonds"
+  },
+  {
+    "name": "Vanguard Total International Stock Index Admiral",
+    "symbol": "VTIAX",
+    "assetClass": "International Stocks"
+  },
+  {
+    "name": "Vanguard REIT Index Admiral",
+    "symbol": "VGSLX",
+    "assetClass": "U.S. Real Estate"
+  },
+  {
+    "name": "Vanguard Short-Term Inflation-Protected Securities Index Admiral",
+    "symbol": "VTAPX",
+    "assetClass": "U.S. Inflation-Protected Bonds"
+  },
+  {
+    "name": "Vanguard Long-Term Bond Index",
+    "symbol": "VBLTX",
+    "assetClass": "U.S. Bonds"
+  }
+]
